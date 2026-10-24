@@ -1,16 +1,23 @@
-## Hi there 👋
+# EXIT
 
-<!--
-**ExitEvidenceLayer/ExitEvidenceLayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blockchain research. Grounded in evidence.
 
-Here are some ideas to get you started:
+We are building evidence-based blockchain research and monitoring infrastructure.
+Our first specialization is control and change analysis: **who can do what, under
+which conditions, at what time, and what evidence supports the answer.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore the research desk](https://exit-protocol.io) · [Read the project](https://github.com/ExitEvidenceLayer/exit-protocol-public) · [Delivery status](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/STATUS.md) · [Roadmap](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/ROADMAP.md)
+
+| Start here | Purpose |
+|---|---|
+| [Product guide](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/PRODUCT.md) | Useful questions, current public access and integration boundaries. |
+| [Technical approach](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/TECHNOLOGY.md) | Sources, provenance, event/knowledge time and reproducible research. |
+| [Token and service rights](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/TOKEN.md) | The proposed optional usage right and future official mint record. |
+| [Transparency](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/TRANSPARENCY.md) | Dated delivery claims, privacy and future operating disclosures. |
+
+**Today:** public recorded cases; restricted API alpha; API Pass privately tested,
+not publicly offered. No official EXIT mint or launch is announced.
+
+The public repository is a documentation hub. Private engine history, credentials
+and restricted raw evidence remain separate. For security reports, use the
+[private reporting guidance](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/SECURITY.md).
