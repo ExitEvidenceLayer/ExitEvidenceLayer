@@ -1,23 +1,22 @@
-# EXIT
+# EXIT · Blockchain Research & Monitoring
 
-### Blockchain research. Grounded in evidence.
+**Blockchain research. Grounded in evidence.**
 
-We are building evidence-based blockchain research and monitoring infrastructure.
-Our first specialization is control and change analysis: **who can do what, under
-which conditions, at what time, and what evidence supports the answer.**
+EXIT is building a connected research infrastructure for understanding blockchain
+activity: what happened, who could act, what changed and which evidence supports
+that conclusion. Our first specialization is control and change analysis.
 
-[Explore the research desk](https://exit-protocol.io) · [Read the project](https://github.com/ExitEvidenceLayer/exit-protocol-public) · [Delivery status](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/STATUS.md) · [Roadmap](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/ROADMAP.md)
+The wider direction connects authority, events and observed fund relationships
+across validated network coverage. Inspectable planning, a temporal research graph,
+measured monitoring and organizational workflows are the development path.
 
-| Start here | Purpose |
-|---|---|
-| [Product guide](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/PRODUCT.md) | Useful questions, current public access and integration boundaries. |
-| [Technical approach](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/TECHNOLOGY.md) | Sources, provenance, event/knowledge time and reproducible research. |
-| [Token and service rights](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/TOKEN.md) | The proposed optional usage right and future official mint record. |
-| [Transparency](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/TRANSPARENCY.md) | Dated delivery claims, privacy and future operating disclosures. |
+- **For people:** a guided research interface with inspectable evidence.
+- **For builders:** a versioned API for supported questions.
+- **For teams:** permitted reproducible reports, with workspaces planned.
 
-**Today:** public recorded cases; restricted API alpha; API Pass privately tested,
-not publicly offered. No official EXIT mint or launch is announced.
+The public desk currently offers recorded case notes and an offline edition. The
+API is a restricted alpha; the optional API Pass is a private tested prototype.
+A usable first service comes before the launch decision. Development then
+continues through measurable growth increments. No official token mint is announced.
 
-The public repository is a documentation hub. Private engine history, credentials
-and restricted raw evidence remain separate. For security reports, use the
-[private reporting guidance](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/SECURITY.md).
+[Research desk](https://exit-protocol.io/) · [Illustrated whitepaper](https://exit-protocol.io/WHITEPAPER-v0.5.html) · [Public project hub](https://github.com/ExitEvidenceLayer/exit-protocol-public) · [Roadmap](https://github.com/ExitEvidenceLayer/exit-protocol-public/blob/main/ROADMAP.md)
